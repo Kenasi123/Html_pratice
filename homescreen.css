@@ -1,0 +1,17 @@
+body {
+    background-color: #d0e4fe;
+      
+    font-style: italic; 
+    
+  }
+  
+  ul {
+    
+    color: limegreen;
+  }
+  
+  #highlight {
+    
+    background-color:aqua; 
+  }
+ /* adds the color and background to the section   */
